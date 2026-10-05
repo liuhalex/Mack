@@ -1,6 +1,6 @@
 # Mack
 
-Mack is a Chrome extension that turns confusing websites into simple interfaces and guides you through them by voice.
+Mack helps the elderly and those with accessibility challenges by turning confusing websites into simple ones, and talks you through them.
 
 ## What it does
 
